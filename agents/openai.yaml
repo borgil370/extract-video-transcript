@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频逐字稿提取"
+  short_description: "提取B站或本地视频字幕与音频，生成带时间戳的逐字稿"
+  default_prompt: "使用 $extract-video-transcript 提取这个 B 站视频的完整逐字稿，保留时间戳并总结主要内容。"
